@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "Mkhuzo Zulu",
+    "occupation": "Student at Nanjing University of Aeronautics and Astronautics",
+    "description": "I Love to Develop",
+    "image": "profile.jpg",
+    "bio": " Hey i'm Mkhuzo! Web development is a one of my hobbies. I have been coding for 2 years now, coding is my true passion, from the i was introduced to the feild i instantly fell in love with it. I wish to share my skills with the world hopefully grow to be a powerful developer, helping people achieve their dreams is my goal.",
+    "contactmessage": "Get in touch with me",
+    "email": "zulumkhuzo@gmail.com",
+    "phone": "+86 18652993815",
+    "address": {
+      "street": "29 General Avenue",
+      "city": "Nanjing",
+      "state": "Jiangsu"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/mkhuzojozi",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/zuu-maker",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Nanjing University of Aeronautics and astronautics -China",
+        "degree": "Persuing a Bachelor's Degree in Software Engineering and Managment",
+        "description": "Current GPA 3.3"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      },
+      {
+        "name": "C++",
+        "level": "55%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name":"nextJs",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn Clone",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://link-clone-4e957.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://clone2-7fc5a.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "netflix.png",
+        "url": " https://netflix-clone-97270.web.app"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-90187.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+    ]
+  }
+}
