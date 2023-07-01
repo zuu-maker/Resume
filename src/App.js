@@ -7,9 +7,9 @@ import Resume from "./Components/Resume";
 import Contact from "./Components/Contact";
 // import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
-require("dotenv").config();
-
 import "./App.css";
+
+require("dotenv").config();
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});

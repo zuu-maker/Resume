@@ -3,8 +3,8 @@
     "name": "Mkhuzo Zulu",
     "occupation": "Student at Nanjing University of Aeronautics and Astronautics",
     "description": "",
-    "image": "profile.png",
-    "bio": " I am passionate about web development Because I adore creating websites and web applications, I do not lack drive, I have a desire and eagerness to learn new things everyday. I challenge myself everyday, I am currently undergoing undergraduate school at Nanjing University of Aeronautics and Astronautics, majoring in Software Engineering and Management. I am a self taught developer and firmly believe in using engineering thinking to implement software. I am goal oriented and constantly aware of my Key performance index.",
+    "image": "profile_new.png",
+    "bio": " I am passionate about web development Because I adore creating websites and web applications, I do not lack drive, I have a desire and eagerness to learn new things everyday. I challenge myself everyday, I underwent undergraduate school at Nanjing University of Aeronautics and Astronautics where I obtained my Bachelor's in Software Engineering and Management. I am a self taught developer and firmly believe in using engineering thinking to implement software. I am goal oriented and constantly aware of my Key performance index.",
     "contactmessage": "Get in touch with me",
     "email": "zulumkhuzo@gmail.com",
     "phone": "+86 18652993815",
@@ -14,7 +14,7 @@
       "state": "Jiangsu"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/resume-903bf.appspot.com/o/pdf%2Fcv.pdf?alt=media&token=9fa6314f-a8ef-4221-b232-d42238cb0cb9",
     "social": [
       {
         "name": "facebook",
@@ -29,11 +29,11 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Programming Language and Framework Proficiency",
     "education": [
       {
-        "school": "Nanjing University of Aeronautics and astronautics -China",
-        "degree": "Persuing a Bachelor's Degree in Software Engineering and Managment",
+        "school": "Nanjing University of Aeronautics and astronautics - China",
+        "degree": "Bachelor of Engineering in Computer Science and Technology",
         "description": ""
       }
     ],
