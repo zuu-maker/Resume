@@ -4,7 +4,7 @@
     "occupation": "Student at Nanjing University of Aeronautics and Astronautics",
     "description": "",
     "image": "profile_new.png",
-    "bio": " I am passionate about web development Because I adore creating websites and web applications, I do not lack drive, I have a desire and eagerness to learn new things everyday. I challenge myself everyday, I underwent undergraduate school at Nanjing University of Aeronautics and Astronautics where I obtained my Bachelor's in Software Engineering and Management. I am a self taught developer and firmly believe in using engineering thinking to implement software. I am goal oriented and constantly aware of my Key performance index.",
+    "bio": " I am a passionate and self-motivated software developer, driven by my love for technology and problem-solving. With a degree in software engineering, I possess a strong foundation in the principles and practices of software development. I thrive in dynamic environments, constantly seeking new challenges to expand my knowledge and skills.",
     "contactmessage": "Get in touch with me",
     "email": "zulumkhuzo@gmail.com",
     "phone": "+86 18652993815",
@@ -87,6 +87,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Linkedin Clone",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://tesla-clone-a55ff.web.app/"
+      },
+      {
+        "title": "Document Manager",
+        "category": "",
+        "image": "document_manger.png",
+        "url": "https://document-manager-7af8f.web.app/"
+      },
+      {
         "title": "Sirius Educational Trust",
         "category": "",
         "image": "set.png",
@@ -103,12 +115,6 @@
         "category": "",
         "image": "set studio.png",
         "url": "https://set-studio.vercel.app/"
-      },
-      {
-        "title": "Linkedin Clone",
-        "category": "",
-        "image": "linkedin.png",
-        "url": "https://tesla-clone-a55ff.web.app/"
       },
       {
         "title": "Tesla Clone",
