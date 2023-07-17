@@ -87,38 +87,44 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Linkedin Clone",
-        "category": "",
-        "image": "linkedin.png",
-        "url": "https://tesla-clone-a55ff.web.app/"
-      },
-      {
-        "title": "Document Manager",
-        "category": "",
-        "image": "document_manger.png",
-        "url": "https://document-manager-7af8f.web.app/"
-      },
-      {
         "title": "Sirius Educational Trust",
-        "category": "",
+        "category": "Full Stack Development",
         "image": "set.png",
         "url": "https://set-landing-site.vercel.app/"
       },
       {
-        "title": "Healthy Heels",
-        "category": "",
-        "image": "healthy heels.png",
-        "url": "https://healthy-heels-809aa.firebaseapp.com/"
-      },
-      {
         "title": "Set Studio",
-        "category": "",
+        "category": "Frontend Development",
         "image": "set studio.png",
         "url": "https://set-studio.vercel.app/"
       },
       {
+        "title": "Document Manager",
+        "category": "Frontend Development",
+        "image": "document_manger.png",
+        "url": "https://document-manager-7af8f.web.app/"
+      },
+      {
+        "title": "Facial Emotion Recognition",
+        "category": "Machine Learning",
+        "image": "FER.png",
+        "url": "https://facial-emotion-recognition-react.vercel.app/"
+      },
+      {
+        "title": "Healthy Heels",
+        "category": "Full Stack Development",
+        "image": "healthy heels.png",
+        "url": "https://healthy-heels-809aa.firebaseapp.com/"
+      },
+      {
+        "title": "Linkedin Clone",
+        "category": "Full Stack Development",
+        "image": "linkedin.png",
+        "url": "https://tesla-clone-a55ff.web.app/"
+      },
+      {
         "title": "Tesla Clone",
-        "category": "",
+        "category": "Frontend Development",
         "image": "tesla.png",
         "url": "https://tesla-clone-a55ff.web.app/"
       }
